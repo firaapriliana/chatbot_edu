@@ -8,3 +8,8 @@ Tampilan Hasil pencarian dari RAG
 Tampilan Hasil pencarian dari web search
 <img width="956" height="418" alt="melalui web search" src="https://github.com/user-attachments/assets/5f06d861-12a3-4c7d-bd80-1f0dad01262d" />
 
+Pengembangan lebih lanjut -> Disertai AGENTIC -> 
+1."Pertanyaan ini soal hukum → buka PDF regulasi"
+2."Pertanyaan ini soal berita terbaru → tidak perlu PDF, cari internet saja"
+<img width="959" height="406" alt="agentic" src="https://github.com/user-attachments/assets/8f609c4b-2ec9-4ae2-ade4-591a0a2fbe27" />
+
