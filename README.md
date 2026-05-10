@@ -11,5 +11,6 @@ Tampilan Hasil pencarian dari web search
 Pengembangan lebih lanjut -> Disertai AGENTIC -> 
 1."Pertanyaan ini soal hukum → buka PDF regulasi"
 2."Pertanyaan ini soal berita terbaru → tidak perlu PDF, cari internet saja"
-<img width="959" height="406" alt="agentic" src="https://github.com/user-attachments/assets/8f609c4b-2ec9-4ae2-ade4-591a0a2fbe27" />
+<img width="959" height="412" alt="hasil agent" src="https://github.com/user-attachments/assets/cf31c748-7516-40d2-b8ce-30cb6b570b45" />
+
 
