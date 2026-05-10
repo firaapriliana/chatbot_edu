@@ -1,3 +1,10 @@
+Tampilan Utama
+masukkan Gemini API dan Exa web search API
 <img width="959" height="419" alt="image" src="https://github.com/user-attachments/assets/4868f97e-d947-4aa2-b87f-e2d8e9193e65" />
-<img width="959" height="418" alt="image" src="https://github.com/user-attachments/assets/7f977f4e-e702-4299-af63-354127bd2c74" />
-<img width="959" height="401" alt="Screenshot 2026-05-10 133343" src="https://github.com/user-attachments/assets/92c4b4eb-c96d-434c-8949-bfdf7a6f9bb5" />
+
+Tampilan Hasil pencarian dari RAG
+<img width="956" height="405" alt="Screenshot 2026-05-10 140733" src="https://github.com/user-attachments/assets/7b864e4c-9b11-474b-989b-11687dd2077e" />
+
+Tampilan Hasil pencarian dari web search
+<img width="956" height="418" alt="melalui web search" src="https://github.com/user-attachments/assets/5f06d861-12a3-4c7d-bd80-1f0dad01262d" />
+
